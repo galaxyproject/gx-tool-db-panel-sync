@@ -54,23 +54,23 @@ gx-tool-db  import-server-as-label --server plants_eu plants
 gx-tool-db  import-server-as-label --server singlecell_eu singlecell
 
 # export panels for each label
-gx-tool-db export-panel-view --require-label cliqseq cliqseq cliqseq_eu
-gx-tool-db export-panel-view --require-label humancellatlas humancellatlas humancellatlas_eu
-gx-tool-db export-panel-view --require-label metabolomics metabolomics metabolomics_eu
-gx-tool-db export-panel-view --require-label ml ml ml_eu
-gx-tool-db export-panel-view --require-label proteomics proteomics proteomics_eu
-gx-tool-db export-panel-view --require-label annotation annotation annotation_eu
-gx-tool-db export-panel-view --require-label cheminformatics cheminformatics cheminformatics_eu
-gx-tool-db export-panel-view --require-label covid19 covid19 covid19_eu
-gx-tool-db export-panel-view --require-label graphclust graphclust graphclust_eu
-gx-tool-db export-panel-view --require-label imaging imaging imaging_eu
-gx-tool-db export-panel-view --require-label metagenomics metagenomics metagenomics_eu
-gx-tool-db export-panel-view --require-label nanopore nanopore nanopore_eu
-gx-tool-db export-panel-view --require-label rna rna rna_eu
-gx-tool-db export-panel-view --require-label assembly assembly assembly_eu
-gx-tool-db export-panel-view --require-label climate climate climate_eu
-gx-tool-db export-panel-view --require-label ecology ecology ecology_eu
-gx-tool-db export-panel-view --require-label hicexplorer hicexplorer hicexplorer_eu
-gx-tool-db export-panel-view --require-label microbiome microbiome microbiome_eu
-gx-tool-db export-panel-view --require-label plants plants plants_eu
-gx-tool-db export-panel-view --require-label singlecell singlecell singlecell_eu
+gx-tool-db export-panel-view  --view_type activity --require-label cliqseq cliqseq cliqseq_eu
+gx-tool-db export-panel-view  --view_type activity --require-label humancellatlas humancellatlas humancellatlas_eu
+gx-tool-db export-panel-view  --view_type activity --require-label metabolomics metabolomics metabolomics_eu
+gx-tool-db export-panel-view  --view_type activity --require-label ml ml ml_eu
+gx-tool-db export-panel-view  --view_type activity --require-label proteomics proteomics proteomics_eu
+gx-tool-db export-panel-view  --view_type activity --require-label annotation annotation annotation_eu
+gx-tool-db export-panel-view  --view_type activity --require-label cheminformatics cheminformatics cheminformatics_eu
+gx-tool-db export-panel-view  --view_type activity --require-label covid19 covid19 covid19_eu
+gx-tool-db export-panel-view  --view_type activity --require-label graphclust graphclust graphclust_eu
+gx-tool-db export-panel-view  --view_type activity --require-label imaging imaging imaging_eu
+gx-tool-db export-panel-view  --view_type activity --require-label metagenomics metagenomics metagenomics_eu
+gx-tool-db export-panel-view  --view_type activity --require-label nanopore nanopore nanopore_eu
+gx-tool-db export-panel-view  --view_type activity --require-label rna rna rna_eu
+gx-tool-db export-panel-view  --view_type activity --require-label assembly assembly assembly_eu
+gx-tool-db export-panel-view  --view_type activity --require-label climate climate climate_eu
+gx-tool-db export-panel-view  --view_type activity --require-label ecology ecology ecology_eu
+gx-tool-db export-panel-view  --view_type activity --require-label hicexplorer hicexplorer hicexplorer_eu
+gx-tool-db export-panel-view  --view_type activity --require-label microbiome microbiome microbiome_eu
+gx-tool-db export-panel-view  --view_type activity --require-label plants plants plants_eu
+gx-tool-db export-panel-view  --view_type activity --require-label singlecell singlecell singlecell_eu

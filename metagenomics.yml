@@ -2361,4 +2361,4 @@ items:
   - id: toolshed.g2.bx.psu.edu/repos/devteam/ucsc_custom_track/build_ucsc_custom_track_1
     type: tool
   name: Graph/Display Data
-type: generic
+type: activity

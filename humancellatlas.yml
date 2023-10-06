@@ -2165,4 +2165,4 @@ items:
   - id: toolshed.g2.bx.psu.edu/repos/iuc/ggplot2_heatmap/ggplot2_heatmap
     type: tool
   name: Graph/Display Data
-type: generic
+type: activity

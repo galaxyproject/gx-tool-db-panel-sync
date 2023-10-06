@@ -2739,4 +2739,4 @@ items:
   - id: toolshed.g2.bx.psu.edu/repos/artbio/pathifier/pathifier
     type: tool
   name: Graph/Display Data
-type: generic
+type: activity

@@ -609,4 +609,4 @@ items:
   - id: toolshed.g2.bx.psu.edu/repos/recetox/matchms_metadata_export/matchms_metadata_export
     type: tool
   name: Metabolomics
-type: generic
+type: activity

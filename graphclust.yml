@@ -1445,4 +1445,4 @@ items:
   - id: toolshed.g2.bx.psu.edu/repos/rnateam/graphclust_preprocessing/preproc
     type: tool
   name: GraphClust
-type: generic
+type: activity

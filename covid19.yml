@@ -6576,4 +6576,4 @@ items:
   - id: toolshed.g2.bx.psu.edu/repos/devteam/count_covariates/gatk_count_covariates
     type: tool
   name: GATK Tools
-type: generic
+type: activity

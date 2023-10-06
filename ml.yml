@@ -495,4 +495,4 @@ items:
   - id: toolshed.g2.bx.psu.edu/repos/bgruening/keras_batch_models/keras_batch_models
     type: tool
   name: Machine Learning
-type: generic
+type: activity

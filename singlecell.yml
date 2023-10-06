@@ -1044,4 +1044,4 @@ items:
   - id: toolshed.g2.bx.psu.edu/repos/ebi-gxa/ucsc_cell_browser/ucsc_cell_browser
     type: tool
   name: Interactive tools
-type: generic
+type: activity

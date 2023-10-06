@@ -1470,4 +1470,4 @@ items:
   - id: toolshed.g2.bx.psu.edu/repos/iuc/meme_dreme/meme_dreme
     type: tool
   name: Motif Tools
-type: generic
+type: activity

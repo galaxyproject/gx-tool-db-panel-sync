@@ -2407,4 +2407,4 @@ items:
   - id: toolshed.g2.bx.psu.edu/repos/gga/apollo_delete_features/delete_features
     type: tool
   name: Apollo
-type: generic
+type: activity

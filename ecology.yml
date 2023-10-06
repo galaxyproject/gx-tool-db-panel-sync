@@ -2080,4 +2080,4 @@ items:
   - id: toolshed.g2.bx.psu.edu/repos/ecology/obisindicators/obisindicators
     type: tool
   name: Biodiversity data exploration
-type: generic
+type: activity

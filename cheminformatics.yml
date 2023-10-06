@@ -695,4 +695,4 @@ items:
   - id: toolshed.g2.bx.psu.edu/repos/bgruening/chemical_data_sources/ctb_pubchem_download_assays
     type: tool
   name: ChemicalToolBox
-type: generic
+type: activity

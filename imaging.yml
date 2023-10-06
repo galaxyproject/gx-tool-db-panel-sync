@@ -1345,4 +1345,4 @@ items:
   - id: toolshed.g2.bx.psu.edu/repos/imgteam/image_registration_affine/ip_image_registration
     type: tool
   name: Imaging
-type: generic
+type: activity

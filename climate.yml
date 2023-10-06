@@ -587,4 +587,4 @@ items:
   - id: toolshed.g2.bx.psu.edu/repos/climate/cds_essential_variability/cds_essential_variability
     type: tool
   name: Climate Analysis
-type: generic
+type: activity

@@ -1905,4 +1905,4 @@ items:
   - id: toolshed.g2.bx.psu.edu/repos/miller-lab/genome_diversity/gd_diversity_pi
     type: tool
   name: Genome Diversity
-type: generic
+type: activity
